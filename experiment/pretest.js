@@ -89,23 +89,71 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1. Protein aggregation is aggregation of :", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "proteins and solvent molecules", ///// Write the option 1 inside double quotes
+                b: "proteins and legands", ///// Write the option 2 inside double quotes
+	        c: "folded proteins", ///// Write the option 1 inside double quotes
+                d: "misfolded proteins", ///// Write the option 2 inside double quotes
+		
+            },
+            correctAnswer: "d" ///// Write the correct option inside double quotes
+     },
+
+
+	{
+            question: "2. Prerequisite of protein aggregation is : ", ///// Write the question inside double quotes
+            answers: {
+                a: "Mutation.", ///// Write the option 1 inside double quotes
+                b: "Protein folding.", ///// Write the option 2 inside double quotes
+	        c: "Protein denaturation.", ///// Write the option 1 inside double quotes
+                d: "None of the above.", ///// Write the option 2 inside double quotes
+		
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+        },
+
+
+
+	{
+            question: "3. Why CD spectroscopy is a convenient technique to study protein aggregation? ", ///// Write the question inside double quotes
+            answers: {
+                a: "CD spectra of folded and random coil are similar.", ///// Write the option 1 inside double quotes
+                b: "CD spectra of folded and random coil are quite different.", ///// Write the option 2 inside double quotes
+	        c: "In the aggregated state the spectra is absent in CD.", ///// Write the option 1 inside double quotes
+                d: "In the folded state the spectra is absent in CD.", ///// Write the option 2 inside double quotes
+		
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },		  
+
+
+
+	{
+            question: "4. Dynode voltage gives the indication of : ", ///// Write the question inside double quotes
+            answers: {
+                a: "Reflection of light", ///// Write the option 1 inside double quotes
+                b: "Absorption of light.", ///// Write the option 2 inside double quotes
+	        c: "Emmision of light.", ///// Write the option 1 inside double quotes
+                d: "Refraction of light.", ///// Write the option 2 inside double quotes
+		
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },
+
+
+
+	{
+            question: "5. What happens when the protein aggregates? ", ///// Write the question inside double quotes
+            answers: {
+                a: "Its size increases and more light is scattered.", ///// Write the option 1 inside double quotes
+                b: "Its size decreases and less amount of light is scattered.", ///// Write the option 2 inside double quotes
+	        c: "Its size increases and less amount of light is scattered.", ///// Write the option 1 inside double quotes
+                d: "Its size decreases and more light is scattered.", ///// Write the option 2 inside double quotes
+		
             },
             correctAnswer: "a" ///// Write the correct option inside double quotes
         },
-
-    {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
-
 
 
      ];

@@ -17,7 +17,7 @@ Circular dichroism spectroscopy is widely used to follow the stability of a prot
 CD spectrum of different secondary structures of a protein.
 
 
-   	    <img src="images/cd_spec.png/">
+<img src="images/cd_spec.png/">
 
 Ref: The above figure has been taken from Figure 2 of the paper titled "The use of circular dichroism spectroscopy to study protein folding, form and function" by Daniel H. A. Corrêa and Carlos H. I. Ramos published in African Journal of Biochemistry Research Vol.3 (5), pp. 164-173, May, 2009
 
@@ -36,7 +36,7 @@ The unfolding transition can be easily determined by choosing a wavelength where
 **MRE values and Dynode voltage comparison.**
 
 
-      	     <img src="images/dynode.png/">
+<img src="images/dynode.png/">
 
 Ref: The above figure has been taken from Figure 6 of the paper titled "The use of circular dichroism spectroscopy to study protein folding, form and function" by Daniel H. A. Corrêa and Carlos H. I. Ramos published in African Journal of Biochemistry Research Vol.3 (5), pp. 164-173, May, 2009
 

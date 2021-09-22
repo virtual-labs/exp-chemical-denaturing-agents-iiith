@@ -27,5 +27,5 @@ Step9 : Click on "Go to Analysis"
 
 Step 10 : Submit your answers. You can verify them from redoing the experiment or going through the theory.
 
-Step 11 : Once you have studied both the samples you may compare them by clicking ¡°COMPARE¡±.
+Step 11 : Once you have studied both the samples you may compare them by clicking "COMPARE".
 

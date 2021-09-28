@@ -1,7 +1,6 @@
 **1. Video Tutorial**
 
-click [here](videos/manual_exp10.swf) to ENLARGE.
-
+click [here](video/manual_exp10.swf) to ENLARGE.
 
 
 **2. Step-by-step Procedure**

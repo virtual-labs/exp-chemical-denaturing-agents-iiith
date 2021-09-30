@@ -1,0 +1,20 @@
+[
+{"question":"1. Dynode voltage gives the indication of :",
+"answers":{
+         "a":"Reflection of light.",
+         "b":"Absorption of light.",
+         "c":"Emmision of light.",
+         "d":"Refraction of light."
+         },
+"correctAnswers":"b"},
+
+{"question":"2. What happens when the protein aggregates?",
+"answers":{
+         "a":"Its size increases and more light is scattered.",
+         "b":"Its size decreases and less amount of light is scattered.",
+         "c":"Its size increases and less amount of light is scattered.",
+         "d":"Its size decreases and more light is scattered."
+         },
+"correctAnswers":"a"}
+
+]

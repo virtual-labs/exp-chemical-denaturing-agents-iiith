@@ -6,7 +6,7 @@
 			"c": "folded proteins",
 			"d": "misfolded proteins"
 		},
-		"correctanswer": "d"
+		"correctanswers": "d"
 	},
 
 	{
@@ -17,18 +17,18 @@
 			"c": "Protein denaturation.",
 			"d": "None of the above."
 		},
-		"correct answer": "c"
+		"correct answers": "c"
 	},
 
 	{
 		"question": "3. Why CD spectroscopy is a convenient technique to study protein aggregation?",
-		"answer": {
+		"answers": {
 			"a": "CD spectra of folded and random coil are similar.",
 			"b": "CD spectra of folded and random coil are quite different.",
 			"c": "In the aggregated state the spectra is absent in CD.",
 			"d": "In the folded state the spectra is absent in CD."
 		},
-		"correctanswer": "b"
+		"correctanswers": "b"
 	}
 
 ]

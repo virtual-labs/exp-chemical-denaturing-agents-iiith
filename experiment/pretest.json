@@ -1,6 +1,6 @@
 [{
 		"question": "1. Protein aggregation is aggregation of :",
-		"answer": {
+		"answers": {
 			"a": "proteins and solvent molecules",
 			"b": "proteins and legands",
 			"c": "folded proteins",
@@ -11,7 +11,7 @@
 
 	{
 		"question": "2. Prerequisite of protein aggregation is :",
-		"answer": {
+		"answers": {
 			"a": "Mutation.",
 			"b": "Protein folding.",
 			"c": "Protein denaturation.",

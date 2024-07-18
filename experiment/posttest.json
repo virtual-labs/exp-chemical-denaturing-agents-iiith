@@ -6,7 +6,7 @@
          "c":"Emmision of light.",
          "d":"Refraction of light."
          },
-"correctAnswers":"b"},
+"correctAnswer":"b"},
 
 {"question":"2. What happens when the protein aggregates?",
 "answers":{
@@ -15,6 +15,6 @@
          "c":"Its size increases and less amount of light is scattered.",
          "d":"Its size decreases and more light is scattered."
          },
-"correctAnswers":"a"}
+"correctAnswer":"a"}
 
 ]

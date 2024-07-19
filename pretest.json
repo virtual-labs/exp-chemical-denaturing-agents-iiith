@@ -1,0 +1,34 @@
+[{
+		"question": "1. Protein aggregation is aggregation of :",
+		"answers": {
+			"a": "proteins and solvent molecules",
+			"b": "proteins and legands",
+			"c": "folded proteins",
+			"d": "misfolded proteins"
+		},
+		"correctAnswer": "d"
+	},
+
+	{
+		"question": "2. Prerequisite of protein aggregation is :",
+		"answers": {
+			"a": "Mutation.",
+			"b": "Protein folding.",
+			"c": "Protein denaturation.",
+			"d": "None of the above."
+		},
+		"correctAnswer": "c"
+	},
+
+	{
+		"question": "3. Why CD spectroscopy is a convenient technique to study protein aggregation?",
+		"answers": {
+			"a": "CD spectra of folded and random coil are similar.",
+			"b": "CD spectra of folded and random coil are quite different.",
+			"c": "In the aggregated state the spectra is absent in CD.",
+			"d": "In the folded state the spectra is absent in CD."
+		},
+		"correctAnswer": "b"
+	}
+
+]

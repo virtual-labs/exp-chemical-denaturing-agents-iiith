@@ -6,7 +6,7 @@
 			"c": "folded proteins",
 			"d": "misfolded proteins"
 		},
-		"correctanswers": "d"
+		"correctAnswer": "d"
 	},
 
 	{
@@ -17,7 +17,7 @@
 			"c": "Protein denaturation.",
 			"d": "None of the above."
 		},
-		"correct answers": "c"
+		"correctAnswer": "c"
 	},
 
 	{
@@ -28,7 +28,7 @@
 			"c": "In the aggregated state the spectra is absent in CD.",
 			"d": "In the folded state the spectra is absent in CD."
 		},
-		"correctanswers": "b"
+		"correctAnswer": "b"
 	}
 
 ]
